@@ -64,8 +64,6 @@ brew "starship"
 brew "telnet"
 # Display directories as trees (with optional color/HTML output)
 brew "tree"
-# Split input and feed it into the given utility
-brew "xpipe"
 # Yet Another Dotfiles Manager
 brew "yadm"
 # Additional completion definitions for zsh
