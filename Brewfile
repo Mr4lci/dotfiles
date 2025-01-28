@@ -24,6 +24,8 @@ brew "automake"
 brew "bash-completion"
 # Parser generator
 brew "bison"
+# Resource monitor. C++ version and continuation of bashtop and bpytop
+brew "btop"
 # Ruby environment tool
 brew "chruby"
 # Top-like interface for container metrics
@@ -52,6 +54,8 @@ brew "libffi"
 brew "mas"
 # NCurses Disk Usage
 brew "ncdu"
+# Password generator
+brew "pwgen"
 # Install Ruby, JRuby, Rubinius, TruffleRuby, or mruby
 brew "ruby-install"
 # Cross-shell prompt for astronauts
@@ -135,8 +139,8 @@ mas "Pages", id: 409201541
 mas "Pluralsight", id: 431748264
 mas "The Unarchiver", id: 425424353
 mas "Wappalyzer - Technology profiler", id: 1520333300
+mas "WhatsApp", id: 310633997
 mas "Windows App", id: 1295203466
-mas "‎WhatsApp", id: 310633997
 vscode "amazonwebservices.aws-toolkit-vscode"
 vscode "bbenoist.vagrant"
 vscode "codeium.codeium"
